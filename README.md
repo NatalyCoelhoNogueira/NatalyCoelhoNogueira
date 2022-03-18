@@ -36,3 +36,15 @@
   </ul>
   <ul>
 </div>
+  
+  <div><br>
+  <ul>
+    <li> 🟥 Banco de Dados: </li>
+    <ul>
+      <li>
+        <img align="center" alt="linguagens.Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"> Firebase
+      </li>
+    </ul>
+  </ul>
+  <ul>
+</div>
