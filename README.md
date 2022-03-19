@@ -10,7 +10,7 @@
 </div>
 <div><br>
   <ul>
-    <li> 🟥 Programas: </li>
+    <li> 🔵 Programas: </li>
     <ul>
     <li> 
      <img align="center" alt="programas.AndroidStudio" height="30" width="40" src="https://img.icons8.com/color/48/000000/android-studio--v3.png"> Android Studio </li>
@@ -24,7 +24,7 @@
   
 <div><br>
   <ul>
-    <li> 🟥 Linguagens: </li>
+    <li> 🔵 Linguagens: </li>
     <ul>
     <li>
       <img align="center" alt="linguagens.Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"> Android
@@ -49,7 +49,7 @@
   
   <div><br>
   <ul>
-    <li> 🟥 Banco de Dados: </li>
+    <li> 🔵 Banco de Dados: </li>
     <ul>
       <li>
         <img align="center" alt="linguagens.Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"> Firebase
