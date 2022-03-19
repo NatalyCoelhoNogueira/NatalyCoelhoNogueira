@@ -1,6 +1,6 @@
 # 👋 Olá, meu nome é Nataly Coelho Nogueira e sou estudante de Ciência da Computação!
 
-- 🌱 Atualmente estou estudando Flutter e Dart.
+- 🌱 Atualmente estou estudando Flutter.
 - ⚡ Curiosidades: Gosto de aprender coisas novas!
 
 <div align="center">
