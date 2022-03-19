@@ -10,15 +10,15 @@
 </div>
 <div><br>
   <ul>
-    <li> Programas: </li>
-    <ul>
-    <li> 
-     <img align="center" alt="programas.AndroidStudio" height="30" width="40" src="https://img.icons8.com/color/48/000000/android-studio--v3.png"> Android Studio </li>
-      <li>
-     <img align="center" alt="programas.vsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> vsCode
-      </li>
+   <li> Programas: </li>
+     <ul>
+      <li> 
+        <img align="center" alt="programas.AndroidStudio" height="30" width="40" src="https://img.icons8.com/color/48/000000/android-studio--v3.png"> Android Studio </li>
+        <li>
+          <img align="center" alt="programas.vsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> vsCode
+        </li>
+      </ul>
     </ul>
-  </ul>
   <ul>
 </div>
   
