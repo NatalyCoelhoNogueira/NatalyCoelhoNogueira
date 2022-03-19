@@ -1,4 +1,4 @@
-# 👋 Olá, meu nome é Nataly Coelho Nogueira e sou estudante de Ciência da Computação!
+# 👋🏻 Olá, meu nome é Nataly Coelho Nogueira e sou estudante de Ciência da Computação!
 
 - 🌱 Atualmente estou estudando Flutter.
 - ⚡ Curiosidades: Gosto de aprender coisas novas!
@@ -15,7 +15,7 @@
     <li> 
      <img align="center" alt="programas.AndroidStudio" height="30" width="40" src="https://img.icons8.com/color/48/000000/android-studio--v3.png"> Android Studio </li>
       <li>
-     <img align="center" alt="programas.vcCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> vcCode
+     <img align="center" alt="programas.vsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> vsCode
       </li>
     </ul>
   </ul>
@@ -29,9 +29,19 @@
     <li>
       <img align="center" alt="linguagens.Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"> Android
       </li>
+        <ul>
+          <li>
+            <img align="center" alt="linguagens.Android.Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> Java
+          </li>
+        </ul>
       <li>
        <img align="center" alt="linguagens.Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"> Flutter
       </li>
+      <ul>
+        <li>
+          <img align="center" alt="linguagens.Flutter.dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"> Dart
+        </li>
+      </ul>
     </ul>
   </ul>
   <ul>
